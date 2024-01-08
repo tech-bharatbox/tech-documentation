@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Second Idea
-nav_order: 3
+nav_order: 2
 ---
 
 # Product Concept Document for "Galactic Bollywood: Stardom Odyssey"
