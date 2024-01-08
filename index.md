@@ -2,34 +2,61 @@
 title: Home
 layout: home
 ---
+# Product Concept Document for Building Games
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## 1. Overview
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+### Title of the Game
+- **Name:** [Game Name]
+- **Genre:** Building/Construction Simulation
 
-More specifically, the created site:
+### Purpose
+- Briefly describe the main objective of the game. Example: "To engage players in creative building and managing virtual constructions in an immersive environment."
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## 2. Target Audience
+- **Age Group:** [Specify age range, e.g., 8-16 years]
+- **Interests:** Players interested in architecture, construction, and creative design.
+- **Gaming Platform:** [PC, mobile, console, etc.]
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## 3. Unique Selling Points
+- **Innovative Building Mechanics:** Describe how your building mechanics stand out from other games.
+- **Customization Options:** Elaborate on the extent of customization available for players.
+- **Community Features:** If applicable, detail any multiplayer or community aspects.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## 4. Gameplay Mechanics
 
-To get started with creating a site, simply:
+### Core Mechanics
+- **Building Tools:** Describe the tools players will use to build structures.
+- **Resources and Materials:** Outline how players will obtain and manage resources.
+- **Challenges and Objectives:** Detail the challenges or missions within the game.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### Progression System
+- Explain how players progress in the game (e.g., leveling up, unlocking new materials or tools).
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## 5. Visual and Audio Style
+- **Graphics:** [2D/3D, realistic/cartoonish, etc.]
+- **Audio:** Describe the style of music and sound effects (e.g., soothing, energetic).
 
-----
+## 6. Technical Requirements
+- **Platform Compatibility:** List compatible platforms (e.g., Windows, iOS).
+- **Minimum System Requirements:** Detail the minimum hardware and software requirements.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## 7. Monetization Strategy
+- **Free-to-Play/Paid:** Specify the monetization model.
+- **In-Game Purchases:** If applicable, outline any in-game purchase options.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## 8. Marketing and Distribution
+- **Marketing Channels:** Identify the primary channels for marketing (e.g., social media, gaming forums).
+- **Distribution Platforms:** List where the game will be available (e.g., Steam, App Store).
+
+## 9. Development Timeline
+- **Prototype Completion:** [Date]
+- **Beta Testing:** [Date Range]
+- **Full Release:** [Planned Date]
+
+## 10. Budget Estimate
+- Provide a rough estimate of the total budget required for development.
+
+---
+
+This template provides a structured approach to conceptualizing a building game. You can modify and expand each section based on the specific needs and vision for your game.
