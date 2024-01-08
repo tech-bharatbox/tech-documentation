@@ -1,7 +1,9 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+
 # Product Concept Document for Building Games
 
 ## 1. Overview
